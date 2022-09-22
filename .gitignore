@@ -5,3 +5,6 @@
 /data/data_clean.csv
 /data/data_raw.csv
 /data/listado.csv
+*.log
+*.Rproj
+*.DS_Store
