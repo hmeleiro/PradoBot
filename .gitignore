@@ -2,6 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-/data/data_clean.csv
-/data/data_raw.csv
-/data/listado.csv
+data/data_clean.csv
+data/data_raw.csv
+data/listado.csv
