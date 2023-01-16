@@ -1,6 +1,6 @@
 library(tidyverse)
 
-df <- read_csv("data/data.csv")
+df <- read_csv("data/data_raw.csv")
 
 df$fecha[df$id == "O000080"] <- "1570 - 1590"
 
